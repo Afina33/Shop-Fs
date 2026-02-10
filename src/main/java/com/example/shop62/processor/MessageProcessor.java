@@ -1,7 +1,7 @@
 package com.example.shop62.processor;
 
 
-import com.example.shop62.service.MessageService;
+import com.example.shop62.service.Email.MessageService;
 import org.springframework.stereotype.Component;
 
 @Component

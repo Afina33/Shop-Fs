@@ -1,4 +1,4 @@
-package com.example.shop62.service;
+package com.example.shop62.service.Email;
 
 import org.springframework.stereotype.Component;
 
